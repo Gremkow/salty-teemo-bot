@@ -1,4 +1,4 @@
 .DS_STORE
 .vscode/
 *.pyc
-src/config/config.py
+*config.py
